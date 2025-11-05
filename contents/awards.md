@@ -1,16 +1,8 @@
+* Outstanding Student Award of UCAS, 2025
+* The 33rd Chinese Chemical Society Congress Outstanding Poster Award, 2023.
+* The 15th National Conference on Theoretical and Computational Chemistry Excellent Poster Award, 2023.
+* Outstanding Graduate of Beijing Institute of Technology (BIT), 2021.
+* Outstanding Graduate in Beijing, 2021.
 
-- Outstanding Graduate Award (CUMT), 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.

@@ -1,16 +1,12 @@
-#### Submitted
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Junfang Yang</strong>,Jikai Ji, Yuan Jiao, Xiaoyan Zheng and Peng Qian* (2025). Size-dependent stability and luminescence property in organic aggregates.,<strong>Aggregates</strong>,0:e70029, IF: 13.9. Chinese Academy of Sciences (CAS) 1st Quartile [[Paper]](https://doi.org/10.1002/agt2.70029)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+-Guanghao Zhang†,<strong>Junfang Yang†</strong>, Zhiqiang Lan, Cong Shan, Qijie Lin, Yubin Ke, Yunhao Cai, Hao Chen, Zuanming Jin, Xin Zhang, Qian Peng* and Hui Huang* (2025). Tuning the physicochemical properties of conjugated polymers via intramolecular noncovalent interactions,<strong>Science China Materials</strong>,68, 4173-4181. IF: 7.4, CAS 1st Quartile [[Paper]](https://doi.org/10.1007/s40843-025-3549-6)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Yilin Shu, Jianmin Huang, <strong>Junfang Yang</strong>, Zhichun Shangguan, Junlong Ma, Cheng Li, Guanxin Zhang,  Qian Peng, Xi-Sha Zhang,* Qitang Fan, Bing Wang * and Deqing Zhang*, (2025). Heptene end-capped Thiele hydrocarbons with tunable configuration and emission and on-surface transformation via annulation. <strong>Chemical Communications</strong> 61(20): 3994-3997. IF: 4.2, CAS 2nd Quartile [[Paper]](https://doi.org/10.1039/D5CC00053J)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>Junfang Yang†</strong>, Haoran Wei†, Qi Ou, Quansong Li, Qian Peng, and Xiaoyan Zheng* (2024). Theoretical Study of the Photocyclization Reaction-Induced Dual Aggregation-Induced Emission Phenomenon. <strong>The Journal of Physical Chemistry A</strong>. 128(1): 217-224. IF: 2.7, CAS 2nd Quartile [[Paper]](https://doi.org/10.1021/acs.jpca.3c07188)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>Junfang Yang</strong> and Qian Peng* (2024). Intermolecular charge transfer and solid-state solvent effect synergistically induce near-infrared thermally activated delay fluorescence in the guest–host system. <strong>Physical Chemistry Chemical Physics</strong> 26(26): 18418-18425. IF: 2.9, [[Paper]](https://doi.org/10.1039/D4CP00885E)
 

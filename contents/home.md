@@ -1,17 +1,22 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Junfang](https://github.com/Junfang-git/Junfang.github.io.git)](https://github.com/Junfang-git)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Postdoctoral Researcher at the University of Chinese Academy of Sciences.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: yangjunfang[at]ucas.ac.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Theoretical and Computational Chemistry, Beijing Institute of Technology, 2018—2021.\
+D.E., Materials Physics and Chemistry, University of Chinese Academy of Sciences, 2022—2025.
+
+#### Professional Experience 
+R.A., University of Chinese Academy of Sciences, 2021—2022
+Assisted the Principal Investigator (PI) in executing scientific research projects.\
+Performed daily laboratory management duties, including inventory and safety compliance.\
+Supported the PI with various research-related administrative tasks.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Theoretical research focused on photoelectric/optoelectronic materials and devices, and the control and regulation of molecular assembly.
