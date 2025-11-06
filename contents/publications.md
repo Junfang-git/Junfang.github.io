@@ -1,6 +1,6 @@
 #### Published
 
-- <strong>Junfang Yang</strong>,Jikai Ji, Yuan Jiao, Xiaoyan Zheng and Peng Qian* (2025). Size-dependent stability and luminescence property in organic aggregates.,<strong>Aggregates</strong>,0:e70029, IF: 13.9. Chinese Academy of Sciences (CAS) 1st Quartile [[Paper]](https://doi.org/10.1002/agt2.70029)
+- <strong>Junfang Yang</strong>,Jikai lv, Yuan Jiao, Xiaoyan Zheng and Peng Qian* (2025). Size-dependent stability and luminescence property in organic aggregates.,<strong>Aggregates</strong>,0:e70029, IF: 13.9. Chinese Academy of Sciences (CAS) 1st Quartile [[Paper]](https://doi.org/10.1002/agt2.70029)
 
 - Guanghao Zhang†,<strong>Junfang Yang†</strong>, Zhiqiang Lan, Cong Shan, Qijie Lin, Yubin Ke, Yunhao Cai, Hao Chen, Zuanming Jin, Xin Zhang, Qian Peng* and Hui Huang* (2025). Tuning the physicochemical properties of conjugated polymers via intramolecular noncovalent interactions,<strong>Science China Materials</strong>,68, 4173-4181. IF: 7.4, CAS 1st Quartile [[Paper]](https://doi.org/10.1007/s40843-025-3549-6)
 

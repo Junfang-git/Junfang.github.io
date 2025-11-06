@@ -19,4 +19,4 @@ Performed daily laboratory management duties, including inventory and safety com
 Supported the PI with various research-related administrative tasks.
 
 #### Research Interests
-Theoretical research focused on photoelectric/optoelectronic materials and devices, and the control and regulation of molecular assembly.
+Theoretical research focused on optoelectronic materials and devices, and the  regulation of molecular assembly.
